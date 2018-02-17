@@ -1,0 +1,7 @@
+# skin
+skin: night
+
+# navigation
+navigation_pages:
+  - about.md
+  - cv.md

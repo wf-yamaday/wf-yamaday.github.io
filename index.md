@@ -3,4 +3,8 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+paginate: true
+image: /assets/images/IMG_4640.jpg
+alt_title: "Lecture Notebook"
+sub_title: "blog top"
 ---
