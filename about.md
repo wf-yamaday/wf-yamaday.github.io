@@ -4,12 +4,14 @@ title: About Me
 permalink: /about/
 ---
 
-### 名前
+### Name
 
 Yuki Yamada
 
-### 所属
+### school career
+
 Tokyo Gakugei University  
 Faculty of Education  
-Education Specialist Course Informatics Education  
+Education Specialist Course  
+Informatics Education  
 Hazeyama Lab.
