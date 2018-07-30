@@ -1,6 +1,6 @@
 # Lecture Notebook
 
-github pages+jekyllに作成した個人ブログです．  
+github pages+jekyllで作成した個人ブログです．  
 投稿内容としては以下のような感じで書いていこうと思ってます．
 
 * 講義，ゼミの内容
